@@ -24,7 +24,7 @@ This project focuses on drawing and animating 4 gears to achieve a specific gear
 ## Demo 
 A demo animation of the gears in motion showing the achieved gear ratio.
 
-https://github.com/user-attachments/assets/f1f51564-98c8-45be-b872-7abbd007519b
+https://github.com/user-attachments/assets/37627e0d-1163-4167-8e8c-6c1abf46d4a0
 
 
 ## Acknowledgments
