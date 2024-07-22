@@ -18,7 +18,7 @@ This project focuses on drawing and animating 4 gears to achieve a specific gear
 * Yellow Gear: 10 teeth
 
 - The gear ratio is calculated as follows:
-* Total gear ratio: 6/1 * 3/1 = 18 
+* Total gear ratio: 1/6 * 1/3 = 1/18 
 
 
 ## Demo 
