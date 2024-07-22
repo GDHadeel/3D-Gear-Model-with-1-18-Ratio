@@ -1,6 +1,6 @@
 # 3D-Gear-Model-with-1-18-Ratio
 
-## Task 5: Drawing and Animating Gears to Achieve a 1/18 Gear Ratio
+## Task 4: Drawing and Animating Gears to Achieve a 1/18 Gear Ratio
 
 ### Description
 This project focuses on drawing and animating 4 gears to achieve a specific gear ratio of 1/18. 
