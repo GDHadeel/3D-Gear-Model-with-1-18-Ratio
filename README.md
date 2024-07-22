@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/37627e0d-1163-4167-8e8c-6c1abf46d4a0
 ## Acknowledgments
 https://www.youtube.com/watch?v=7QwUSHKze3s
 
-https://www.youtube.com/watch?v=KJRONmipLZE
+https://geargenerator.com
 
 
 
