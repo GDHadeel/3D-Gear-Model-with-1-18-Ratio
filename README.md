@@ -6,7 +6,7 @@
 This project focuses on drawing and animating 4 gears to achieve a specific gear ratio of 1/18. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1b5d74e2-ca2f-41ba-b425-966b111df8c3" alt="4 gears" width="800" height="700">
+  <img src="https://github.com/user-attachments/assets/1b5d74e2-ca2f-41ba-b425-966b111df8c3" alt="4 gears" width="850" height="600">
 </p>
 
 
